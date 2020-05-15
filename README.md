@@ -24,7 +24,6 @@
 * [Pool 10](https://github.com/GeeksHubsAcademy/2020-hackathon-zero-python-retos-pool-10)
 * [Pool 11](https://github.com/GeeksHubsAcademy/2020-hackathon-zero-python-retos-pool-11)
 * [Pool 12](https://github.com/GeeksHubsAcademy/2020-hackathon-zero-python-retos-pool-12)
-* [Pool 13](https://github.com/GeeksHubsAcademy/2020-hackathon-zero-python-retos-pool-13)
 * [Pool 14](https://github.com/GeeksHubsAcademy/2020-hackathon-zero-python-retos-pool-14)
 * [Pool 15](https://github.com/GeeksHubsAcademy/2020-hackathon-zero-python-retos-pool-15)
 * [Pool 16](https://github.com/GeeksHubsAcademy/2020-hackathon-zero-python-retos-pool-16)
