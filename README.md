@@ -36,6 +36,9 @@
 
 # [Solución](https://github.com/GeeksHubsAcademy/2020-hackathon-zero-python-retos-solucion)
 
+![](https://media.giphy.com/media/icPn4EwqNpAsZQmInZ/giphy.gif)
+
+
 # Referencias
 * [Fundamentos Python](https://github.com/GeeksHubsAcademy/FundamentosPython)
 * [Telegram Bot](https://github.com/GeeksHubsAcademy/TelegramBot)
