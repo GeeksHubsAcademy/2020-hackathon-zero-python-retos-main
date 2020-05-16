@@ -34,7 +34,7 @@
 * [Pool 21](https://github.com/GeeksHubsAcademy/2020-hackathon-zero-python-retos-pool-21)
 
 
-# [Solución]()
+# [Solución](https://github.com/GeeksHubsAcademy/2020-hackathon-zero-python-retos-solucion)
 
 # Referencias
 * [Fundamentos Python](https://github.com/GeeksHubsAcademy/FundamentosPython)
